@@ -16,7 +16,7 @@ public class GestionDetergentes {
     public static void main(String[] args) throws IOException {
         Menu();
     }
-
+    
     public static void Menu() throws IOException {
         String salida = "====Menú Manejo Pila====\n" 
                 + "1- Insertar elemento\n" 
